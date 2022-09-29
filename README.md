@@ -1,4 +1,4 @@
-- 👋 ola sou weslen rezena
+- 👋 ola sou wesley rezena
 - 👀 estou aprendendo programação
 - 🌱 estou trabalhando com github html 
 - 💞️ pensamento computacional
